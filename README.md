@@ -1,5 +1,33 @@
 # CSDN日报
 
+[CSDN日报190805：一线城市or二线城市，该如何抉择？](https://blog.csdn.net/blogdevteam/article/details/98483826)
+
+[CSDN日报190802：成就更好的自己，就是不停地做减法](https://blog.csdn.net/blogdevteam/article/details/98208261)
+
+[CSDN日报190801：如何高效学习正则表达式](https://blog.csdn.net/blogdevteam/article/details/98068851)
+
+[CSDN日报190731：图神经网络（GNN）必读文章列表，JS 最新数据基本类型:BigInt！](https://blog.csdn.net/blogdevteam/article/details/97914656)
+
+[CSDN日报190730：一种组件化框架的探究之旅](https://blog.csdn.net/blogdevteam/article/details/97783655)
+
+[CSDN日报190729：Github CEO正式回应账号访问受限事件！](https://blog.csdn.net/blogdevteam/article/details/97640196)
+
+[CSDN日报190725：今日技术干货分享！！！](https://blog.csdn.net/blogdevteam/article/details/97264028)
+
+[CSDN日报190724：数据分析究竟有没有价值？](https://blog.csdn.net/blogdevteam/article/details/97127939)
+
+[CSDN日报190723：为什么技术人一定要懂点“可信计算”？](https://blog.csdn.net/blogdevteam/article/details/96992545)
+
+[CSDN日报190722：以一当十的10倍程序员你见过吗？](https://blog.csdn.net/blogdevteam/article/details/96851517)
+
+[CSDN日报190719：字节跳动面经来啦！！！](https://blog.csdn.net/blogdevteam/article/details/96476145)
+
+[CSDN日报190718:史上最全的Android面试题集锦](https://blog.csdn.net/blogdevteam/article/details/96424389)
+
+[CSDN日报190717：如何提升自控力让自己更具有竞争力](https://blog.csdn.net/blogdevteam/article/details/96281504)
+
+[CSDN日报190716：忆贵州三年的教书编程岁月：不弛于空想，不骛于虚声](https://blog.csdn.net/blogdevteam/article/details/96103957)
+
 [CSDN日报190715：嘲讽、争执！刻骨铭心的2019前端面经来了](https://blog.csdn.net/blogdevteam/article/details/95942676)
 
 [CSDN日报190220——程序员管用20年的基本功，N倍放大工作效果](https://blog.csdn.net/blogdevteam/article/details/87794766)
