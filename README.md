@@ -1,4 +1,5 @@
 # CSDN日报
+[CSDN日报190806：面试指南——该做与不该做](https://blog.csdn.net/blogdevteam/article/details/98618902)
 
 [CSDN日报190805：一线城市or二线城市，该如何抉择？](https://blog.csdn.net/blogdevteam/article/details/98483826)
 
