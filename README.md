@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报190808：互联网公司爱情故事](https://blogdev.blog.csdn.net/article/details/98872462)
+
 [CSDN日报190807：程序员的七夕，打造程序员专属表白神器](https://blogdev.blog.csdn.net/article/details/98750557)
 
 [CSDN日报190806：面试指南——该做与不该做](https://blog.csdn.net/blogdevteam/article/details/98618902)
