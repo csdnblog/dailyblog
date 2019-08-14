@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报190814：让开发人员变平庸的八个习惯，看看你中了几条](https://blogdev.blog.csdn.net/article/details/99577340)
+
 [CSDN日报190813：一个野生程序员的自我修养](https://blogdev.blog.csdn.net/article/details/99438119)
 
 [CSDN日报190809：《程序员十二时辰》，内容过于真实 ...](https://blogdev.blog.csdn.net/article/details/98960571)
