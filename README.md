@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报190815：spring boot 项目实战，热门技术干货分享！](https://blog.csdn.net/blogdevteam/article/details/99641037)
+
 [CSDN日报190814：让开发人员变平庸的八个习惯，看看你中了几条](https://blogdev.blog.csdn.net/article/details/99577340)
 
 [CSDN日报190813：一个野生程序员的自我修养](https://blogdev.blog.csdn.net/article/details/99438119)
