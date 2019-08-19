@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报190819：程序员，这四个学习建议值得收藏](https://blogdev.blog.csdn.net/article/details/99732857)
+
 [CSDN日报190816：HarmonyOS(鸿蒙OS)发布，再聊聊操作系统](https://blogdev.blog.csdn.net/article/details/99680903)
 
 [CSDN日报190815：spring boot 项目实战，热门技术干货分享！](https://blog.csdn.net/blogdevteam/article/details/99641037)
