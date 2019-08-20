@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报190820：程序员养生指北](https://blogdev.blog.csdn.net/article/details/99857310)
+
 [CSDN日报190819：程序员，这四个学习建议值得收藏](https://blogdev.blog.csdn.net/article/details/99732857)
 
 [CSDN日报190816：HarmonyOS(鸿蒙OS)发布，再聊聊操作系统](https://blogdev.blog.csdn.net/article/details/99680903)
