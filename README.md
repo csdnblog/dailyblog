@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报190822：热门技术干货分享](https://blogdev.blog.csdn.net/article/details/100019823)
+
 [CSDN日报190821：后端开发工程师必须了解的网络协议基础知识大全](https://blogdev.blog.csdn.net/article/details/99968515)
 
 [CSDN日报190820：程序员养生指北](https://blogdev.blog.csdn.net/article/details/99857310)
