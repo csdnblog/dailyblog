@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报190826：卷积神经网络CNN（干货满满），架构设计指南：MVC、MVP & MVVM模式](https://blog.csdn.net/blogdevteam/article/details/100080197)
+
 [CSDN日报190823：Linux内核争抢式并发在SMP多核扩展上的不足](https://blogdev.blog.csdn.net/article/details/100042143)
 
 [CSDN日报190822：热门技术干货分享](https://blogdev.blog.csdn.net/article/details/100019823)
