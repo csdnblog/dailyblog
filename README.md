@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报190827：Apache Flink 1.9重磅发布！首次合并阿里内部版本Blink重要功能](https://blog.csdn.net/blogdevteam/article/details/100101257)
+
 [CSDN日报190826：卷积神经网络CNN（干货满满），架构设计指南：MVC、MVP & MVVM模式](https://blog.csdn.net/blogdevteam/article/details/100080197)
 
 [CSDN日报190823：Linux内核争抢式并发在SMP多核扩展上的不足](https://blogdev.blog.csdn.net/article/details/100042143)
