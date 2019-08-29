@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报190829：机器学习从零开始，技术干货分享！](https://blogdev.blog.csdn.net/article/details/100140731)
+
 [CSDN日报190828：@程序员，你在颓丧的时候怎么办？](https://blog.csdn.net/blogdevteam/article/details/100121716)
 
 [CSDN日报190827：Apache Flink 1.9重磅发布！首次合并阿里内部版本Blink重要功能](https://blog.csdn.net/blogdevteam/article/details/100101257)
