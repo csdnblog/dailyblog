@@ -1,4 +1,8 @@
 # CSDN日报
+[CSDN日报190902：基于谷歌SV2TTS算法的开源项目在GITHUB登顶](https://blogdev.blog.csdn.net/article/details/100276419)
+
+[CSDN日报190830：麻将AI系统终获突破，人工智能商学院来啦！](https://blog.csdn.net/blogdevteam/article/details/100160176)
+
 [CSDN日报190829：机器学习从零开始，技术干货分享！](https://blogdev.blog.csdn.net/article/details/100140731)
 
 [CSDN日报190828：@程序员，你在颓丧的时候怎么办？](https://blog.csdn.net/blogdevteam/article/details/100121716)
