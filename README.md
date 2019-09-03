@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报190903：程序员离职事件始末](https://blogdev.blog.csdn.net/article/details/100521093)
+
 [CSDN日报190902：基于谷歌SV2TTS算法的开源项目在GITHUB登顶](https://blogdev.blog.csdn.net/article/details/100276419)
 
 [CSDN日报190830：麻将AI系统终获突破，人工智能商学院来啦！](https://blog.csdn.net/blogdevteam/article/details/100160176)
