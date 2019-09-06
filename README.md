@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报190906：Linux fork隐藏的开销-过时的fork；Vue学习笔记](https://blogdev.blog.csdn.net/article/details/100579396)
+
 [CSDN日报190905：2019年9月中国编程语言排行榜](https://blog.csdn.net/blogdevteam/article/details/100560715)
 
 [CSDN日报190904：Android 10正式版发布，看看都有哪些新特性](https://blog.csdn.net/blogdevteam/article/details/100541499)
