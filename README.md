@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报190910：程序员都秃头，商务个个是人精](https://blog.csdn.net/blogdevteam/article/details/100699338)
+
 [CSDN日报190909：详解Github周冠军项目Faceswap的变脸攻略](https://blogdev.blog.csdn.net/article/details/100664659)
 
 [CSDN日报190906：Linux fork隐藏的开销-过时的fork；Vue学习笔记](https://blogdev.blog.csdn.net/article/details/100579396)
