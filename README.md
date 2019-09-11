@@ -1,5 +1,7 @@
 # CSDN日报
-[CSDN日报190910：程序员都秃头，商务个个是人精](https://blog.csdn.net/blogdevteam/article/details/100699338)
+
+
+[CSDN日报190911：Unity3D开发小游戏；常见的五种神经网络](https://blog.csdn.net/blogdevteam/article/details/100739839)
 
 [CSDN日报190909：详解Github周冠军项目Faceswap的变脸攻略](https://blogdev.blog.csdn.net/article/details/100664659)
 
