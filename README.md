@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报190916：从华为的MQTT到TdEngineRPC，解读物联网时代的分布式](https://blogdev.blog.csdn.net/article/details/100893251)
+
 [CSDN日报190912：前端、架构、数据库、游戏开发纯干货分享](https://blogdev.blog.csdn.net/article/details/100773279)
 
 [CSDN日报190911：Unity3D开发小游戏；常见的五种神经网络](https://blog.csdn.net/blogdevteam/article/details/100739839)
