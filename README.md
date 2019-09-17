@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报190917：手把手带你构建视频分类模型；深入浅出CNN](https://blogdev.blog.csdn.net/article/details/100928669)
+
 [CSDN日报190916：从华为的MQTT到TdEngineRPC，解读物联网时代的分布式](https://blogdev.blog.csdn.net/article/details/100893251)
 
 [CSDN日报190912：前端、架构、数据库、游戏开发纯干货分享](https://blogdev.blog.csdn.net/article/details/100773279)
