@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报190918：【技术干货】工作中Git的使用实践](https://blogdev.blog.csdn.net/article/details/100985104)
+
 [CSDN日报190917：手把手带你构建视频分类模型；深入浅出CNN](https://blogdev.blog.csdn.net/article/details/100928669)
 
 [CSDN日报190916：从华为的MQTT到TdEngineRPC，解读物联网时代的分布式](https://blogdev.blog.csdn.net/article/details/100893251)
