@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报190920：React Native发布新一代JS引擎Hermes](https://blogdev.blog.csdn.net/article/details/101062193)
+
 [CSDN日报190919：游戏开发、数据库、架构干货分享](https://blogdev.blog.csdn.net/article/details/101022827)
 
 [CSDN日报190918：【技术干货】工作中Git的使用实践](https://blogdev.blog.csdn.net/article/details/100985104)
