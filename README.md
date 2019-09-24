@@ -1,4 +1,8 @@
 # CSDN日报
+[CSDN日报190924：深度学习、开发干货分享](https://blogdev.blog.csdn.net/article/details/101290379)
+
+[CSDN日报190923：盘点那些被AI换脸、一键“脱”衣所滥用的AI模型](https://blog.csdn.net/blogdevteam/article/details/101208216)
+
 [CSDN日报190920：React Native发布新一代JS引擎Hermes](https://blogdev.blog.csdn.net/article/details/101062193)
 
 [CSDN日报190919：游戏开发、数据库、架构干货分享](https://blogdev.blog.csdn.net/article/details/101022827)
