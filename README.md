@@ -1,4 +1,8 @@
 # CSDN日报
+[CSDN日报190926：Android Gradle插件开发；深度学习、Java干货分享](https://blog.csdn.net/blogdevteam/article/details/101454583)
+
+[CSDN日报190925：操作系统、数据库、架构干货来啦](https://blog.csdn.net/blogdevteam/article/details/101368277)
+
 [CSDN日报190924：深度学习、开发干货分享](https://blogdev.blog.csdn.net/article/details/101290379)
 
 [CSDN日报190923：盘点那些被AI换脸、一键“脱”衣所滥用的AI模型](https://blog.csdn.net/blogdevteam/article/details/101208216)
