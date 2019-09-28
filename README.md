@@ -1,4 +1,8 @@
 # CSDN日报
+[CSDN日报190928：神龙三代，集大成而来！开发干货分享](https://blogdev.blog.csdn.net/article/details/101618048)
+
+[CSDN日报190927：一件事，做得快，还是好？](https://blog.csdn.net/blogdevteam/article/details/101543569)
+
 [CSDN日报190926：Android Gradle插件开发；深度学习、Java干货分享](https://blog.csdn.net/blogdevteam/article/details/101454583)
 
 [CSDN日报190925：操作系统、数据库、架构干货来啦](https://blog.csdn.net/blogdevteam/article/details/101368277)
