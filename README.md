@@ -1,4 +1,8 @@
 # CSDN日报
+[CSDN日报191008：2019年10月全国程序员工资统计；国产阿里OceanBase勇夺TPC-C冠军](https://blog.csdn.net/blogdevteam/article/details/102392404)
+
+[CSDN日报190929：面试官：兄弟，说说基本类型和包装类型的区别吧](https://blog.csdn.net/blogdevteam/article/details/101694680)
+
 [CSDN日报190928：神龙三代，集大成而来！开发干货分享](https://blogdev.blog.csdn.net/article/details/101618048)
 
 [CSDN日报190927：一件事，做得快，还是好？](https://blog.csdn.net/blogdevteam/article/details/101543569)
