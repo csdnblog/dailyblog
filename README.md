@@ -1,4 +1,10 @@
 # CSDN日报
+[CSDN日报191011：Android、Redis、Java开发干货分享！](https://blog.csdn.net/blogdevteam/article/details/102504687)
+
+[CSDN日报191010：Android、微服务、Java开发干货分享！](https://blog.csdn.net/blogdevteam/article/details/102483362)
+
+[CSDN日报191009：Unity游戏开发经验点滴，开发干货分享](https://blog.csdn.net/blogdevteam/article/details/102462890)
+
 [CSDN日报191008：2019年10月全国程序员工资统计；国产阿里OceanBase勇夺TPC-C冠军](https://blog.csdn.net/blogdevteam/article/details/102392404)
 
 [CSDN日报190929：面试官：兄弟，说说基本类型和包装类型的区别吧](https://blog.csdn.net/blogdevteam/article/details/101694680)
