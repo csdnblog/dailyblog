@@ -1,4 +1,8 @@
 # CSDN日报
+[CSDN日报191014:计算机大数乘法引发的思考;TensorFlow2.0 笔记](https://blogdev.blog.csdn.net/article/details/102551143)
+
+[CSDN日报191012：深度学习笔记；深入理解 Java 虚拟机](https://blog.csdn.net/blogdevteam/article/details/102524167)
+
 [CSDN日报191011：Android、Redis、Java开发干货分享！](https://blog.csdn.net/blogdevteam/article/details/102504687)
 
 [CSDN日报191010：Android、微服务、Java开发干货分享！](https://blog.csdn.net/blogdevteam/article/details/102483362)
