@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报191015：通过代码分析那个引发的学界震动的Python脚本BUG；Java、框架干货分享](https://blogdev.blog.csdn.net/article/details/102567934)
+
 [CSDN日报191014:计算机大数乘法引发的思考;TensorFlow2.0 笔记](https://blogdev.blog.csdn.net/article/details/102551143)
 
 [CSDN日报191012：深度学习笔记；深入理解 Java 虚拟机](https://blog.csdn.net/blogdevteam/article/details/102524167)
