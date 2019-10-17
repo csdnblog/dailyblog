@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报191017：只因写了一段爬虫，公司200多人被抓！](https://blogdev.blog.csdn.net/article/details/102609969)
+
 [CSDN日报191016：Java纯干货分享：史上最全的JAVA工程师面试题汇总](https://blog.csdn.net/blogdevteam/article/details/102589052)
 
 [CSDN日报191015：通过代码分析那个引发的学界震动的Python脚本BUG；Java、框架干货分享](https://blogdev.blog.csdn.net/article/details/102567934)
