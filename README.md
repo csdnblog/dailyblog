@@ -1,4 +1,16 @@
 # CSDN日报
+[CSDN日报191025：史上最强Tomcat8性能优化；Java、Python实战干货](https://blogdev.blog.csdn.net/article/details/102746405)
+
+[CSDN日报191024：【1024特辑】带你掌握框架的灵魂；史上最全的MySQL高可用架构](https://blog.csdn.net/blogdevteam/article/details/102728304)
+
+[CSDN日报191023：循环神经网络；Spring Security 实战干货](https://blog.csdn.net/blogdevteam/article/details/102706166)
+
+[CSDN日报191022：目标检测；Java、数据库干货分享](https://blog.csdn.net/blogdevteam/article/details/102686573)
+
+[CSDN日报191021：我与CSDN的这十年——笔耕不辍，青春热血](https://blog.csdn.net/blogdevteam/article/details/102668335)
+
+[CSDN日报191018：记软件开发满五年；Spring Boot 2.2 正式发布](https://blog.csdn.net/blogdevteam/article/details/102628500)
+
 [CSDN日报191017：只因写了一段爬虫，公司200多人被抓！](https://blogdev.blog.csdn.net/article/details/102609969)
 
 [CSDN日报191016：Java纯干货分享：史上最全的JAVA工程师面试题汇总](https://blog.csdn.net/blogdevteam/article/details/102589052)
