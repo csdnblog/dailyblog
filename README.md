@@ -1,4 +1,8 @@
 # CSDN日报
+[CSDN日报191029：Java开发需要知道的HTML知识；Rust入坑指南](https://blogdev.blog.csdn.net/article/details/102803233)
+
+[CSDN日报191028：冷眼看中国IT20年发展史；Vue + Spring Boot 项目实战](https://blog.csdn.net/blogdevteam/article/details/102784911)
+
 [CSDN日报191025：史上最强Tomcat8性能优化；Java、Python实战干货](https://blogdev.blog.csdn.net/article/details/102746405)
 
 [CSDN日报191024：【1024特辑】带你掌握框架的灵魂；史上最全的MySQL高可用架构](https://blog.csdn.net/blogdevteam/article/details/102728304)
