@@ -1,4 +1,18 @@
 # CSDN日报
+[CSDN日报191108：光棍节就要到了，要不要给你介绍个 python 对象？](https://blog.csdn.net/blogdevteam/article/details/102976250)
+
+[CSDN日报191107：Android性能优化：常见内存泄漏与优化](https://blog.csdn.net/blogdevteam/article/details/102959515)
+
+[CSDN日报191106：面试官：你连RESTful都不知道我怎么敢要你？](https://blog.csdn.net/blogdevteam/article/details/102939355)
+
+[CSDN日报191105：2019年11月全国程序员工资统计，区块链工程师比算法工资高](https://blog.csdn.net/blogdevteam/article/details/102920737)
+
+[CSDN日报191101：你想知道的关于 Refs 的知识都在这了](https://blog.csdn.net/blogdevteam/article/details/102861772)
+
+[CSDN日报191031：Java并发编程、Android开发、Flutter入门进阶](https://blog.csdn.net/blogdevteam/article/details/102841849)
+
+[CSDN日报191030：Android开发、Flutter实战；大数据 Lambda 架构](https://blog.csdn.net/blogdevteam/article/details/102823465)
+
 [CSDN日报191029：Java开发需要知道的HTML知识；Rust入坑指南](https://blogdev.blog.csdn.net/article/details/102803233)
 
 [CSDN日报191028：冷眼看中国IT20年发展史；Vue + Spring Boot 项目实战](https://blog.csdn.net/blogdevteam/article/details/102784911)
