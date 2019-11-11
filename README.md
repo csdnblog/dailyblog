@@ -1,4 +1,6 @@
 # CSDN日报
+[CSDN日报191111：全栈人工智能-AI发展新趋势](https://blogdev.blog.csdn.net/article/details/103013393)
+
 [CSDN日报191108：光棍节就要到了，要不要给你介绍个 python 对象？](https://blog.csdn.net/blogdevteam/article/details/102976250)
 
 [CSDN日报191107：Android性能优化：常见内存泄漏与优化](https://blog.csdn.net/blogdevteam/article/details/102959515)
