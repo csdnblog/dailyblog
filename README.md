@@ -1,4 +1,12 @@
 # CSDN日报
+[CSDN日报191115：记软件开发满五年——盘点这些年的改变](https://blogdev.blog.csdn.net/article/details/103088166)
+
+[CSDN日报191114：Java开发干货分享](https://blogdev.blog.csdn.net/article/details/103071811)
+
+[CSDN日报191113：Java 8 Optional 类错误使用的26个示例；Redis常见面试题（带答案）](https://blogdev.blog.csdn.net/article/details/103054101)
+
+[CSDN日报191112：Python2寿命只剩一个月啦！还不快赶紧学起Python3酷炫到爆的新特性！](https://blogdev.blog.csdn.net/article/details/103034595)
+
 [CSDN日报191111：全栈人工智能-AI发展新趋势](https://blogdev.blog.csdn.net/article/details/103013393)
 
 [CSDN日报191108：光棍节就要到了，要不要给你介绍个 python 对象？](https://blog.csdn.net/blogdevteam/article/details/102976250)
