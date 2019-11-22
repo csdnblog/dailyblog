@@ -1,4 +1,14 @@
 # CSDN日报
+[CSDN日报191118：Python 编程实用技巧；Go开发 之 Go的 9个 基本命令](https://blog.csdn.net/blogdevteam/article/details/103126620)
+
+[CSDN日报191119：java集合面试知识大全；堆和栈的精华大总结](https://blog.csdn.net/blogdevteam/article/details/103146912)
+
+[CSDN日报191120：《吊打面试官》系列-消息队列基础；Vue + Spring Boot 项目实战](https://blog.csdn.net/blogdevteam/article/details/103167429)
+
+[CSDN日报191121：Python 中那些令人防不胜防的坑；Android直播开发之旅](https://blog.csdn.net/blogdevteam/article/details/103187268)
+
+[CSDN日报191122：Android工程师的面试指南](https://blog.csdn.net/blogdevteam/article/details/103204507)
+
 [CSDN日报191115：记软件开发满五年——盘点这些年的改变](https://blogdev.blog.csdn.net/article/details/103088166)
 
 [CSDN日报191114：Java开发干货分享](https://blogdev.blog.csdn.net/article/details/103071811)
